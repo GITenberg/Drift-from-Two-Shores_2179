@@ -1,0 +1,33 @@
+_repo: Drift-from-Two-Shores_2179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2179'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+tableOfContents: The man on the beach -- Two saints of the foothills -- Jinny -- Roger
+  Catron's friend -- Who was my quiet friend? -- A ghost of the Sierras -- The hoodlum
+  band -- The man whose yoke was not easy -- My friend, the tramp -- The man from
+  Solano -- The office seeker -- A sleeping-car experience -- Five o'clock in the
+  morning -- With the entrées.
+title: Drift from Two Shores
+url: http://www.gutenberg.org/ebooks/2179
